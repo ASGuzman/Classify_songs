@@ -36,4 +36,4 @@ The project is structured as follows:
 
 By the end of this project, we aim to gain a deeper understanding of music genre classification and develop a reliable model for predicting the genres of songs based on their musical features.
 
-Let's dive into the fascinating world of music data analysis and classification! 🎵📊# Classify_songs
+Let's dive into the fascinating world of music data analysis and classification! 🎵📊
